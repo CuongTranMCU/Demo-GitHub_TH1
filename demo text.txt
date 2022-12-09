@@ -1,1 +1,6 @@
-dfwefrwei dfwkdfwi ewrie
+git status:show code whether push on github
+if yet, 
+git add .: 
+git commit -m "init project": edit 
+git push origin main: push on github
+
