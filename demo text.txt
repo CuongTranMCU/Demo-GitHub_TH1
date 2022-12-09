@@ -1,7 +1,9 @@
-git status:show code whether push on github
+About: Create project on github and pull back my desk
+git status:check status file whether push on github
 if yet, 
 B1:git add .: 
 B2:git commit -m "init project": edit 
 B3:git push origin main: push on github
 if after edit, if you want to push again on github
 back B1: 
+- Rename project :
