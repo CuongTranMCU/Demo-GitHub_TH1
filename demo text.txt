@@ -1,6 +1,7 @@
 git status:show code whether push on github
 if yet, 
-git add .: 
-git commit -m "init project": edit 
-git push origin main: push on github
-
+B1:git add .: 
+B2:git commit -m "init project": edit 
+B3:git push origin main: push on github
+if after edit, if you want to push again on github
+back B1: 
